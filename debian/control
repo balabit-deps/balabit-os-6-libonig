@@ -1,7 +1,8 @@
 Source: libonig
 Section: libs
 Priority: extra
-Maintainer: Jörg Frings-Fürst <debian@jff-webhosting.net>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Jörg Frings-Fürst <debian@jff-webhosting.net>
 Build-Depends: 
  debhelper (>= 9),
  dh-autoreconf
